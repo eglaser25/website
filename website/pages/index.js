@@ -44,7 +44,7 @@ export default function Home() {
             href="Evan Glaser Resume Website.pdf"
             className={styles.card}
           >
-            <h2>Resume &rarr;</h2>
+            <h2 download>Resume &rarr;</h2>
             <p>Download my Resume</p>
           </a>
         </div>
