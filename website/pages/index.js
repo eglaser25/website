@@ -41,11 +41,11 @@ export default function Home() {
           </a>
 
           <a
+            href="Evan Glaser Resume Website.pdf"
             className={styles.card}
           >
-           <h2>Resume &rarr;</h2>
-        <a href="Evan Glaser Resume Website.pdf" download>Download My Resume</a>
-        <p ></p>
+            <h2>Resume &rarr;</h2>
+            <p>Download my Resume</p>
           </a>
         </div>
       </main>
